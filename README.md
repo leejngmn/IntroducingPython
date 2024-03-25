@@ -8,7 +8,7 @@
   <div>
     <img src="https://img.shields.io/badge/저자-빌%20루바노빅-DDE072?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-DDE072?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/기간-2024.03~%2024.05-DDE072?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2024.03~2024.05-DDE072?style=for-the-badge"/>
   </div>
 </div>
 
