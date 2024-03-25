@@ -1,6 +1,21 @@
 #연습문제
-#8.1 영어-프랑스어 사전을 의미하는 e2f 딕셔너리를 만들어라. 영어의 dog는 프랑스어의 chien이고, cat은 chat, walrus는 morse다. 
-#8.2 딕셔너리에서 영어 walrus를 프랑스어로 출력해보자
-
+#8.1 ~ 8.2
 e2f={'dog':'chien', 'cat' : 'chat', 'walrus':'morse'}
 print(e2f['walrus'])
+
+#8.7~ 8.9
+life ={'animals':{'cats':'Henri','octopi':'Grumpy','emus':'Lucy'}, 'plants':'', 'other':{}}
+print(life.keys())
+print(life['animals'].keys())
+print(list(life['animals'].keys()))
+print(life.values())
+
+#8.10
+squares ={k:k**2 for k in range(10)}
+print(squares)
+
+#8.11
+a_set={number for number in range(10) if number %2 ==1}
+print(a_set)
+
+#8.12
