@@ -6,7 +6,7 @@
   </a>
   <h1>처음 시작하는 파이썬 2판</h1>
   <div>
-    <img src="https://img.shields.io/badge/저자-빌%20루바노빅-DDE072style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/저자-빌%20루바노빅-DDE072?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/출판사-한빛미디어-52b788?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/기간-2024.03~%2024.05-52b788?style=for-the-badge"/>
   </div>
